@@ -1,61 +1,39 @@
-# About being different
+# About being different - "colorful" feminist musicans - practicing responsive design
 
-> This exercises will help you practicing responsive design with CSS and creating responsive images with HTML.
+## Exercise Course-Module 1 - UserInterfaceBasics (UIB) - HTML/CSS
+
+### creating responsive design with CSS and responsive images with HTML like the reference images
 
 <br>
 
-### Instructions:
+Images created with `picture`, `source` & `img` HTML elements. Used CSS media queries to change images and the styles for the elements on different viewport sizes.
 
-- Create an HTML document and style sheet and start working from there.
-- Set the font-size of the root element to what is equal to 10px.
-- Images should be created using the `picture`, `source` & `img` HTML elements.
-- Use the the provided images inside the folder `images`
-- Use the provided screenshots as your reference for your design.
-- Use CSS media queries to change the styles for the elements on different viewport sizes.
-- Use the provided breakpoints for your queries.
-- Feel free to use or not to use the provided colors, shadows and gradients.
-- Font size of the `h1` element should also be resonsive.
+31.10.2022
 
 <br>
 
 <br>
 
-## **image-03:** 901px and up
+## **image-03:** 1201px and up
 
-![](./reference%20images/ref-03.png)
+Sleater-Kinney. Photo by Evan Ibarra.
+https://uclaradio.com/wp-content/uploads/2024/04/IMG_1481-copy-scaled-2560x1280.jpeg
+
 <br>
 
-## **image-02:** 501px - 900px
+## **image-02:** 901px - 1200px
 
-![](./reference%20images/ref-02.png)
+P.J.Harvey-Foto: Getty Images. Jim Dyson. https://www.musikexpress.de/wp-content/uploads/2016/07/13/16/pj-harvey.jpg
+
 <br>
 
-## **image-01:** 0 - 500px
+## **image-01:** 0 - 900px
 
-![](./reference%20images/ref-01.png)
+L7. Photo by Rebjukebox: https://jungleindierock.com/wp-content/uploads/2016/09/L7-band.jpg
+
 <br>
 
 ### Gradients:
 
-    linear-gradient(#456b76, #2e2f5d)
-    linear-gradient(to right, black, #210e0e)
-    linear-gradient(140deg, #011a3b, #1faae3)
-
+linear-gradients similar to the song-color
 <br>
-
-### Box shadow:
-
-    box-shadow: -6px  -7px  30px  -20px  #ff8f8f, inset  -9px  -9px  19px  -6px  #ff8f8f;
-
-<br>
-
-### Colors:
-
-- #c7cbcd
-- #d8eefd
-- #fdd9d8
-- #d5eaff
-
-<br>
-
-![](https://img.shields.io/badge/Happy_coding-</>-informational?style=flat&logoColor=white&color=f05032)
