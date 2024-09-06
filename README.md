@@ -1,4 +1,4 @@
-# About being different - "colorful" feminist musicans - practicing responsive design
+# About being different - colorful songs of feminist musicans - practicing responsive design
 
 ## Exercise Course-Module 1 - UserInterfaceBasics (UIB) - HTML/CSS
 
