@@ -2,38 +2,43 @@
 
 ## Exercise Course-Module 1 - UserInterfaceBasics (UIB) - HTML/CSS
 
-### creating responsive design with CSS and responsive images with HTML like the reference images
+created at 10.10.22
 
-<br>
+Created a responsive design with CSS and responsive images with HTML like the `reference images`
+Images created with `picture`, `source` & `img` HTML elements. Used CSS media queries to change images and the styles for the elements on different viewport sizes, linear-gradients similar to the color in the song title,
 
-Images created with `picture`, `source` & `img` HTML elements. Used CSS media queries to change images and the styles for the elements on different viewport sizes.
+### my desktop version:
 
-31.10.2022
+![my_desktop](./images/my_desktop_version.png)
 
-<br>
-
-<br>
-
-## **image-03:** 1201px and up
-
-Sleater-Kinney. Photo by Evan Ibarra.
+image-source: Sleater-Kinney. Photo by Evan Ibarra.
 https://uclaradio.com/wp-content/uploads/2024/04/IMG_1481-copy-scaled-2560x1280.jpeg
 
 <br>
 
-## **image-02:** 901px - 1200px
+### my tablet version:
 
-P.J.Harvey-Foto: Getty Images. Jim Dyson. https://www.musikexpress.de/wp-content/uploads/2016/07/13/16/pj-harvey.jpg
+![my_tablet](./images/my_tablet_version.png)
 
-<br>
-
-## **image-01:** 0 - 900px
-
-L7. Photo by Rebjukebox: https://jungleindierock.com/wp-content/uploads/2016/09/L7-band.jpg
+image-source: P.J.Harvey-Foto: Getty Images. Jim Dyson. https://www.musikexpress.de/wp-content/uploads/2016/07/13/16/pj-harvey.jpg
 
 <br>
 
-### Gradients:
+### my mobile version:
 
-linear-gradients similar to the song-color
-<br>
+![my_mobile](./images/my_mobile_version.png)
+image-source: L7. Photo by Rebjukebox: https://jungleindierock.com/wp-content/uploads/2016/09/L7-band.jpg
+
+### Mockups
+
+#### desktop:
+
+![reference image desk](./mockups/ref-03.png)
+
+#### tablet:
+
+![reference image tab](./mockups/ref-02.png)
+
+#### mobile:
+
+![reference image mob](./mockups/ref-01.png)
